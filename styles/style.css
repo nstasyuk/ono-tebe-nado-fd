@@ -143,6 +143,7 @@
 .description__button {
   font-size: 22px;
   text-transform: uppercase;
+  text-decoration: none;
   border: white solid 1px;
   z-index: 1;
   padding: 12px 32px;
